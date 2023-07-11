@@ -6,5 +6,5 @@ Farlight84-Nimrod-aimbot
 
 ![hjj](https://github.com/IQPZ/Farlight84-Nimrod-aimbot/assets/69715395/d1bb9e73-632a-40c4-9af0-8379cc5281e5)
 
-The original developer [zakaria1996] [iqhax team]
+The original developer [zakaria1996] [iqhax team].
 
